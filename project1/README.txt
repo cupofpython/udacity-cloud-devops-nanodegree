@@ -8,4 +8,5 @@ This project is a static webiste with files hosted on S3. It leverages the Cloud
 - AWS CloudFront
 
 ## Deliverables
-Access the site here: https://d1ll7ejo664xt1.cloudfront.net/
+CloudFront Domain: https://d1ll7ejo664xt1.cloudfront.net/
+S3 Bucket Endpoint: http://my-550259584844-bucket.s3-website.us-east-2.amazonaws.com
